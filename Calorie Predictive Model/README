@@ -3,7 +3,7 @@
 - **Title**: Calorie Predictive Model
 - **Date Created**: November 9, 2024
 - **Description**: This project uses machine learning to predict caloric values based on food attributes. The model was developed using Python and trained on a labeled dataset of food items.
-- **Creator**: [Your Name]
+- **Creator**: Houston Parker
 - **Format**: Python files (`.py`), Jupyter Notebook (`.ipynb`), CSV dataset (`.csv`)
 - **Usage Rights**: Licensed under MIT License
 - **Keywords**: machine learning, predictive model, calories, nutrition data, Python
