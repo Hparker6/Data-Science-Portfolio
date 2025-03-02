@@ -47,4 +47,4 @@ requests
 \
 
 ## Example Run
-![RAN Agent Diagram](images/You-Are-My-Sunshine.png)
+<img src="Generated_Pics/You-Are-My-Sunshine.png" width="300" alt="Description of image">
