@@ -1,0 +1,6 @@
+smolagents
+pytz
+pyyaml
+gradio
+requests
+python-dotenv
