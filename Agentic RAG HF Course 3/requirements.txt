@@ -1,0 +1,7 @@
+langgraph
+langchain
+langchain-community
+langchain-huggingface
+duckduckgo-search
+datasets
+huggingface_hub
